@@ -318,7 +318,7 @@ app.post('/sort',(req, res)=>{
 
 
 const port = 3000
-const host = https://gigga-nigga-project.onrender.com
+const host = 'https://gigga-nigga-project.onrender.com'
 app.listen(port,()=>{
     console.log(`${host}`)
 }) 
